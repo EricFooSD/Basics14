@@ -1,5 +1,6 @@
 // set global variables
 // to track games and progress
+//
 var numGamesDraw = 0;
 var numGamesWon = 0;
 var numGamesPlayed = 0;
